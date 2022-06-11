@@ -39,13 +39,13 @@ public class TypeCasting {
          // int --> short
          System.out.println(" int --> short ");
          int b2=45678;
-         short s2=(short)b;
+         short s2=(short)b2;
          System.out.println(s2);
 
          // short --> byte
          System.out.println(" short --> byte ");
          short s3=567;
-         byte c3= (byte)s1;
+         byte c3= (byte)s3;
          System.out.println(c3);
 
          // float --> int
@@ -53,13 +53,6 @@ public class TypeCasting {
          float f2=56.90f;
          int i4=(int)f2;    
          System.out.println(i4);
-
-         
-
-        
-
-
-
     }
     
 }
