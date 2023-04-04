@@ -1,6 +1,5 @@
 package JavaBasics;
 public class MathsFunctions{
-	
 	public static void main(String[] args) {
 		System.out.println(Math.PI);		// 3.141592653589793
 		System.out.println(Math.max(3, 5)); // 5

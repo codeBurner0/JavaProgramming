@@ -15,7 +15,6 @@ public class Operators {
 //		--
 		
 		System.out.println("===== Unary Arithmetic Operators =====");
-		
 		int i = +10;
 		int i2 = -10;
 		int i3 = ++i;
