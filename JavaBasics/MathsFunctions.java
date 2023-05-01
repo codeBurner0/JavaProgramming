@@ -9,8 +9,6 @@ public class MathsFunctions{
 		int absoluteValue = Math.abs(5);  //converts -ve to +ve
 		System.out.println(absoluteValue);	// 5   
 		
-
-		
 		System.out.println(Math.sqrt(-1));	// NaN (Not A Number)
 		System.out.println(0 / 0.0);		// NaN
 		System.out.println((0 / 0.0) + 5);	// NaN
