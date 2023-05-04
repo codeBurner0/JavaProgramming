@@ -11,6 +11,9 @@ class cp{
         // System.out.println(k);
         // .length is not a method, afiled of array
         
+
+
+        
         // boolean c=a>=10 & b<20;
         // System.out.println(c);
         public static boolean canConstruct(String ransomNote, String magazine) {
